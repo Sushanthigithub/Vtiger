@@ -4,8 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="vtigerFinalScripts.CreateContactWithOrgTest"/>
-      <class name="vtigerFinalScripts.DeleteLeadTest"/>
       <class name="vtigerFinalScripts.CreateLeadTest"/>
+      <class name="vtigerFinalScripts.DeleteLeadTest"/>
       <class name="vtigerFinalScripts.CreateOrganizationTest"/>
       <class name="vtigerFinalScripts.CreateAndDuplicateLeadTest"/>
       <class name="vtigerFinalScripts.CreateContactTest"/>
